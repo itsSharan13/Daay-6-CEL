@@ -1,1 +1,1 @@
-# Daay-6-CEL
+# Day-6-CEL
